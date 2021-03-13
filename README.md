@@ -1,2 +1,2 @@
 # instagram
-página do instagram totalmente responsiva feita com flexbox
+Página de login do instagram totalmente responsiva feita com flexbox
